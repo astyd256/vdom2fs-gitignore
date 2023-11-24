@@ -28,7 +28,7 @@ Replace [path_to_json] with the path to your custom JSON configuration file.
 
 ### Input:
 
-As of input script expects it to be a JSON dictionary inside of a file with another dict named `"Aliases"`
+As of input, script expects it to be a JSON dictionary inside of a file with another dict named `"Aliases"`
 
 ```
 {
